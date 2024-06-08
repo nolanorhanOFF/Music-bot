@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'xxx',
+        token: 'MTI0MzU4NDAzODg1MDAwNzA5Mw.GgxsmE.ARRXxp6-vlnhogOsgE0S-Hxp0W7MlYJ2SWcAnw',
         playing: 'by the Community ❤️',
         global: true,
-        guild: 'xxx',
+        guild: '',
         extraMessages: false,
         loopMessage: false,
         lang: 'en',
@@ -23,7 +23,7 @@ module.exports = {
     opt: {
         DJ: {
             enabled: false,
-            roleName: '',
+            roleName: 'MusicPlay🎵',
             commands: []
         },
         Translate_Timeout: 10000,
